@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API\\Market-API\\Market-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9D3CC9-89E1-4D6F-92D4-439BF9125A14}|Market.Services\\Market.Services.csproj|d:\\api\\market-api\\market-api\\market.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9D3CC9-89E1-4D6F-92D4-439BF9125A14}|Market.Services\\Market.Services.csproj|solutionrelative:market.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E46F9A-58B2-43FF-9D57-71DA258A5BC0}|Market.Repository\\Market.Repository.csproj|d:\\api\\market-api\\market-api\\market.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E46F9A-58B2-43FF-9D57-71DA258A5BC0}|Market.Repository\\Market.Repository.csproj|solutionrelative:market.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBCDE7D-2186-4116-A6D5-6BCC81A54F58}|Market.Core\\Market.Core.csproj|d:\\api\\market-api\\market-api\\market.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBCDE7D-2186-4116-A6D5-6BCC81A54F58}|Market.Core\\Market.Core.csproj|solutionrelative:market.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\API\\Market-API\\Market-API\\Market.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Market.Services\\Class1.cs",
+              "ToolTip": "D:\\API\\Market-API\\Market-API\\Market.Services\\Class1.cs",
+              "RelativeToolTip": "Market.Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:51:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\API\\Market-API\\Market-API\\Market.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Market.Repository\\Class1.cs",
+              "ToolTip": "D:\\API\\Market-API\\Market-API\\Market.Repository\\Class1.cs",
+              "RelativeToolTip": "Market.Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:51:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\API\\Market-API\\Market-API\\Market.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Market.Core\\Class1.cs",
+              "ToolTip": "D:\\API\\Market-API\\Market-API\\Market.Core\\Class1.cs",
+              "RelativeToolTip": "Market.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:49:36.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1085,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
